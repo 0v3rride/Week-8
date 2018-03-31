@@ -17,21 +17,21 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 ## Blue
 
 Vulnerability #1: SQLi
-
+![SQLi]()
 Vulnerability #2: __________________
-
+![SQLi]()
 
 ## Green
 
 Vulnerability #1: User Enumeration
-
+![User Enumeration]()
 Vulnerability #2: Persistent XSS
-
+![XSS]()
 
 ## Red
 
 Vulnerability #1: IDOR
-
+![IDOR]()
 Vulnerability #2: __________________
 
 
