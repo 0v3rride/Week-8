@@ -25,7 +25,7 @@ Vulnerability #2: __________________
 
 Vulnerability #1: User Enumeration
 
-Vulnerability #2: __________________
+Vulnerability #2: Persistent XSS
 
 
 ## Red
