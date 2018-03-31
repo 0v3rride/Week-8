@@ -42,7 +42,7 @@ Vulnerability #1: IDOR
 
 Vulnerability #2: CSRF
 
-![CSRF]()
+![CSRF](https://github.com/0v3rride/Week-8/blob/master/Red_CSRF.gif)
 
 
 ## Notes
